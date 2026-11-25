@@ -1,0 +1,7 @@
+# Certified Sommelier for Gas Station Slushies — make.fun entry
+
+[![make.fun · u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![rank](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/kizuna99/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922-entry/rank.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+[![reward](https://make.fun/badge/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922/kizuna99/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922-entry/reward.svg)](https://make.fun/bounty/u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-weirdest-job-title-blind-judge-showdown-552d7922)
+
+A tiny program for the "Weirdest Job Title: Blind Judge Showdown" bounty. It writes one job title — a real-sounding profession given one hilariously specific twist: a certified sommelier, sworn to the noble art of gas station slushies — to `/output/entry.txt`, exactly 44 characters, nothing else.
